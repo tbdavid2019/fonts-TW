@@ -2,4 +2,4 @@
 
 檔案名稱尾碼有 90的代表是「偽直排」版本 <br>
 通常都是直接下載 FakePearl-Regular-TW.ttf 即可使用  <br>
-若有需要 偽直排版本可以下載 FakePearl-Regular-TW-90.ttf 
+若有偽直排版本需要，可以下載 FakePearl-Regular-TW-90.ttf 
