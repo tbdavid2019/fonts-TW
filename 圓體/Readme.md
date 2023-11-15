@@ -10,7 +10,7 @@
 
 ### 效果展示
 <img width="1040" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/aa7e637f-f86f-44f3-8bb0-af11d449aa21">
-
+<img width="1040" alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/56015064/283017467-8af7c2f6-6fac-464e-9205-f93712b1ae6b.png">
 ---
 基於 SIL Open Font License 1.1 開源協議授權釋出。您可以放心地：<br>
 自由應用：無需付費、知會或標明原作者，即可自由使用或研究本字型，亦可用為商業應用，惟不可將本字體作為產品販售。<br>
