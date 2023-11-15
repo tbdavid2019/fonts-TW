@@ -15,3 +15,6 @@
 完整的授權規定詳見：<br>
 SIL Open Font License 1.1 - SPDX：https://spdx.org/licenses/OFL-1.1.html <br>
 中譯參考版本：http://florenceko.me/?p=2089
+<br>
+<br>
+改自 justfont 的 open 粉圓
