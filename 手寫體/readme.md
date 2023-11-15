@@ -1,8 +1,10 @@
 
-本字體為簡體字自動轉繁體 <br><br>
+### 本字體為簡體字自動轉繁體 
+- 電子書 電子閱讀器 請下載 zen888-Regular-book-TW 使用<br>
+- 瀏覽器或創作用 請下載 zen888-Regular-write-TW 使用<br>
 
-電子書 電子閱讀器 請下載 zen888-Regular-book-TW 使用<br>
-瀏覽器或創作用 請下載 zen888-Regular-write-TW 使用<br>
+### 效果
+<img width="858" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/43130441-75e9-4f53-bbe3-a53c61e44570">
 
 ---<br>
 
