@@ -1,11 +1,11 @@
 ### 網路上幾乎沒有人做 繁簡自轉的圓體字體 
 
 若您是要電子書閱讀用途：<br>
-- 通常都是直接下載 pearl888-Regular-TW-Book.ttf  即可使用  <br>
-- 若有偽直排版本需要，可以下載 pearl888-Regular-TW-Book-90.ttf <br>
+- 通常都是直接下載 circle888-Regular-TW-book.ttf  即可使用  <br>
+- 若有偽直排版本需要，可以下載 circle888-Regular-TW-book-90.ttf <br>
 
 若您是要創作或瀏覽器寫稿子用途：<br>
-- 通常都是直接下載 pearl888-Regular-TW-Write.ttf  
+- 通常都是直接下載 circle888-Regular-TW-write.ttf 
 
 
 ### 效果展示
