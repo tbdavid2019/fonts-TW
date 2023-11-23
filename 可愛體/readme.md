@@ -1,11 +1,13 @@
 # 888可愛 - 本字體為簡體字自動轉繁體
 
-電子書 電子閱讀器 請下載 cute888-Regular-book-TW 使用
-瀏覽器或創作用 請下載 cute888-Regular-write-TW 使用
+- 電子書 電子閱讀器 請下載 cute888-Regular-book-TW.ttf 使用
+- 瀏覽器或創作用 請下載 cute888-Regular-write-TW.ttf 使用
 
 
 ## 效果
 <img width="773" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/b8883b94-1b25-425e-83a9-0019ac947a7d">
+<img width="718" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/9816e2a8-df65-4477-9823-0e588c421869">
+
 
 
 
