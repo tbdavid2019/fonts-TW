@@ -13,7 +13,7 @@ https://github.com/tbdavid2019/fonts-TW/releases
 <img width="858" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/43130441-75e9-4f53-bbe3-a53c61e44570">
 
 ### 888可愛體
-<img width="1112" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/0b558123-b6f9-406b-9785-aceeed8a1bcb">
+<img width="858" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/0b558123-b6f9-406b-9785-aceeed8a1bcb">
 
 --
 #### 製作工具與教學
