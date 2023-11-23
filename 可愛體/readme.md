@@ -7,6 +7,8 @@
 ## 效果
 <img width="773" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/b8883b94-1b25-425e-83a9-0019ac947a7d">
 <img width="1112" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/0b558123-b6f9-406b-9785-aceeed8a1bcb">
+<img width="773" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/0db2ef98-07e2-4eec-90ad-3a24efa1a131">
+
 
 
 
