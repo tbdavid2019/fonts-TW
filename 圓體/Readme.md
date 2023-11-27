@@ -4,9 +4,8 @@
 - 通常都是直接下載 circle888-book-tw.ttf  即可使用  <br>
 - 若有偽直排版本需要，可以下載 circle888-book-tw-90.ttf <br>
 
-若您是要創作或瀏覽器寫稿子用途：<br>
+若您是要創作或瀏覽器寫稿子用途：
 - 通常都是直接下載 circle888-write-tw.ttf
-
 
 ### 效果展示
 <img width="533" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/e0dc9591-56c1-4541-b2da-715808933e8a">
