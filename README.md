@@ -7,7 +7,7 @@
 https://github.com/tbdavid2019/fonts-TW/releases
 
 ### 888圓體
-<img width="1040" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/aa7e637f-f86f-44f3-8bb0-af11d449aa21">
+<img width="676" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/09a9a825-8773-4c34-818a-63d61e231945">
 
 ### 888禪體 (手寫體)
 <img width="858" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/43130441-75e9-4f53-bbe3-a53c61e44570">
