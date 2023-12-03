@@ -1,12 +1,23 @@
 ### 網路上幾乎沒有人做 繁簡自轉的圓體字體 
 
-若您是要電子書閱讀用途：<br>
+####  > 若您是要電子書閱讀用途：<br>
+
+發→發？髮？
+
+後→後？後？
+
+幹→乾？幹？幹？
+
+簡對多繁不再麻煩
+
 - 通常都是直接下載 circle888-book-tw.ttf  即可使用  <br>
 - 若有偽直排版本需要，可以下載 circle888-book-tw-90.ttf <br>
 
-若您是要創作或瀏覽器寫稿子用途：
-- 通常都是直接下載 circle888-write-tw.ttf
 
+
+####  > 若您是要創作或瀏覽器寫稿子用途：
+- 通常都是直接下載 circle888-write-tw.ttf
+沒有一對多轉換，有歧異字不轉換方便創作時選合適字體
 ### 效果展示
 <img width="533" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/e0dc9591-56c1-4541-b2da-715808933e8a">
 <img width="938" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/ec640d68-b13a-42c9-84a3-3eb4876d48d2">
@@ -22,5 +33,5 @@
 <br>
 
 ### 感謝
-最初第2.01版本的源頭 justfont粉圓體沒有照台灣標準字體， 
+最初第2.01版本的源頭 justfont粉圓體沒有照臺灣標準字體， 
 故從3.01版本後 改自 臺灣圓體TaiwanPearl
