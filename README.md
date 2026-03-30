@@ -19,6 +19,10 @@ https://github.com/tbdavid2019/fonts-TW/releases
 ### 888文楷 (基於霞鶩文楷)
 *(請在此貼上字型預覽圖的 GitHub 網址)*
 
+### 888文楷
+![alt text](image.png)
+
+
 ### 888圓體
 <img width="676" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/09a9a825-8773-4c34-818a-63d61e231945">
 
