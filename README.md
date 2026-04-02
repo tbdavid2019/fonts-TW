@@ -1,27 +1,26 @@
-# 888圓體 / 888禪體 / 888可愛體 / 888文楷
+# 888 系列繁體字型 (簡體自動顯示為繁體)
 
-只要下載這個字型檔，安裝好字型，將編輯器的字型設定使用 888 字體，所有的簡體中文自動顯示為繁體。
+只要下載並安裝這些字型，在編輯器或閱讀器中選擇使用，所有的簡體中文將自動顯示為繁體。無需額外設定，連 Windows 記事本也適用。
 
-不需要額外的設定，只要下載字型、安裝字型 & 選擇該字型顯示即可。
+## 快速導覽
+- [**888圓體**](./888circle圓體/README.md) - 基於臺灣圓體，適合一般閱讀。
+- [**888禪體**](./888zen禪體(手寫體)/README.md) - 基於苦累蛙圓體，具備手寫風格。
+- [**888可愛體**](./888cute可愛體/README.md) - 基於瀨戶/內海字體，風格活潑。
+- [**888文楷**](./888LXGW文楷/README.md) - 基於霞鶩文楷，極致的閱讀體驗。
 
-連在 Windows 內附的記事本都可以用，不論是用簡體字輸入法即時輸入簡體字或是打開已經存在的檔案，都會用繁體字顯示。
+## 使用場景
+- **電子書閱讀：** 電子閱讀器專用字體，解決一對多繁體轉換問題。
+- **瀏覽器顯示：** 讓網頁簡體字自動變繁體。
+- **創作開發：** 提供不轉換歧異字的版本，方便精確選字。
 
- 
- 臺灣用語，簡體字會自動變成繁體字 
-- 看電子書 電子閱讀器專用的字體
-- 瀏覽器好用的字體
+## 下載位置
+👉 [GitHub Releases 下載點](https://github.com/tbdavid2019/fonts-TW/releases)
 
+---
 
-
-請下載享用
-https://github.com/tbdavid2019/fonts-TW/releases
-
-### 888文楷 (基於霞鶩文楷)
-*(請在此貼上字型預覽圖的 GitHub 網址)*
-
+## 效果展示
 ### 888文楷
 ![alt text](image.png)
-
 
 ### 888圓體
 <img width="676" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/09a9a825-8773-4c34-818a-63d61e231945">
@@ -34,6 +33,5 @@ https://github.com/tbdavid2019/fonts-TW/releases
 
 --
 #### 製作工具與教學
-- **888 字型生成工具 (最新)** 採用自動化生成精靈，支援一鍵轉換與直排處理： https://github.com/tbdavid2019/OpenCCFontGenerator
-- 簡體自動轉繁體自行製作 (舊版) https://github.com/GuiWonder/TCFontCreator.git
-- 偽直排製作 https://tonysnote.whybut.com/2023/07/fontforge.html
+- **888 字型生成工具 (最新)** 採用自動化生成精靈： [OpenCCFontGenerator](https://github.com/tbdavid2019/OpenCCFontGenerator)
+- 偽直排製作教學： [Tony's Note](https://tonysnote.whybut.com/2023/07/fontforge.html)
