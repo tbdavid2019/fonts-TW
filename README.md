@@ -21,14 +21,24 @@
 ---
 
 ## 效果展示
+
+### 888Bopomofo注音
+![alt text](image-1.png)
+
+
 ### 888文楷
 ![alt text](image.png)
+![alt text](image-4.png)
 
 ### 888圓體
 <img width="676" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/09a9a825-8773-4c34-818a-63d61e231945">
 
-### 888禪體 (手寫體)
+![alt text](image-2.png)
+
+### 888禪體
 <img width="858" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/43130441-75e9-4f53-bbe3-a53c61e44570">
+
+![alt text](image-3.png)
 
 ### 888可愛體
 <img width="858" alt="image" src="https://github.com/tbdavid2019/fonts-TW/assets/56015064/0b558123-b6f9-406b-9785-aceeed8a1bcb">
