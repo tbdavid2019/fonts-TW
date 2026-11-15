@@ -22,5 +22,5 @@ All notable changes to `fonts-TW` (`888` series OpenCC fonts) will be documented
 - **888cute可愛體**（5 字重：`ExtraLight / Light / Regular / SemiBold / Bold`，`font_name: 888Cute`，`53,538` glyphs）：
   - 由 `[orgin]/naikaifont-1.89/tw/` 重製，統一檔名為 `888cuteFont-<Weight>_TC.{ttf,woff2}` 並清除不一致舊檔，修正 `webfont/fonts.css` 引用與 Mac `name` table 亂碼。
 - **文件同步更新**：
-  - 建立本檔 `CHANGELOG.md`，並更新根目錄 `README.md` 及上述 5 組字族各自的 `README.md`（修正範例錯字與對應檔名／來源說明）。
+  - 建立本檔 `CHANGELOG.md`，並更新根目錄 `README.md` 及上述 5 組字族各自的 `README.md`（修正範例錯字與對應檔名／來源說明）；保留 `[orgin]/` 原始字型追蹤，移除 `.gitignore` 中冗餘的 `[orgin]/` 規則。
 - **驗證**：全部 22 支主字型 TTF、22 支 `Rotated90` TTF 與 22 支 `.woff2` 皆檢查 glyph 總數 `<= 65,535`、GSUB 無重複 feature tag、`fonts.css` 與實體檔案一對一吻合，並以 macOS CoreText 實測 44 支 TTF（主版 + 偽直排版）全部通過詞彙與不超翻驗證。
