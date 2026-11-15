@@ -8,13 +8,6 @@
   font-display: swap;
 }
 
-/* Usage Example:
-body {
-  font-family: '888Roundhand', sans-serif;
-  font-weight: 400;
-}
-*/
-
 @font-face {
   font-family: '888Roundhand';
   src: url('888Roundhand-Light_TC.woff2') format('woff2');
@@ -46,3 +39,10 @@ body {
   font-style: normal;
   font-display: swap;
 }
+
+/* Usage Example:
+body {
+  font-family: '888Roundhand', sans-serif;
+  font-weight: 400;
+}
+*/

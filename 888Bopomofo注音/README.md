@@ -10,8 +10,8 @@
 
 注意
 
-- 這份字型是用 OpenCC `s2tw` 生成的台灣正體版本。
-- 原始字體本身缺少部分簡體來源字，因此簡轉繁覆蓋率會受原字庫限制。
+- 這份字型是使用 OpenCC `1.4.2`（`s2tw`）生成的台灣正體版本，並搭配 `NotoSansTC-Regular` 作為 `--fallback-font` 補齊 OpenCC 轉換目標字形，同時保留原始注音 GSUB 破音字規則與 OpenCC 詞級轉換。
+- 原始 `BpmfIansui` 漢字數約 8,364 字，部分未收錄於 `NotoSansTC` 目標補字範圍內的罕見字仍會受原字庫限制。
 
 Webfont 用法
 
